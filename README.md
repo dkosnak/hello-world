@@ -14,6 +14,7 @@ More comments to B1
 <<<<<<< HEAD
 Branch2 comments - DJK
 
+<<<<<<< HEAD
 Add Branch3 Comments - DJK
 Add another comment - 1:33
 =======
@@ -22,3 +23,6 @@ Branch2 comments - DJK
 =======
 Branch2 comments - DJK
 >>>>>>> parent of 22fd5d4... Add Comment 3
+=======
+Add Branch3 Comments - DJK
+>>>>>>> parent of 4c2b3d4... New Comment
