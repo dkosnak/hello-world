@@ -10,7 +10,11 @@ Testing Project tasks
 Adding comments to Branch 1
 More comments to B1
 
+<<<<<<< HEAD
 Branch2 comments - DJK
 
 Add Branch3 Comments - DJK
 Add another comment - 1:33
+=======
+Branch2 comments - DJK
+>>>>>>> parent of 22fd5d4... Add Comment 3
